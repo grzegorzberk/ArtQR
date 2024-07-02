@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+
+struct ImageInfo: Codable {
+    let imageName: String
+    let fileName: String  // Nowa informacja o nazwie pliku obrazu
+    let author: String
+    let description: String
+}
