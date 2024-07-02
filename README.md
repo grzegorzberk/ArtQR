@@ -43,7 +43,7 @@ Kroki instalacji:
 
 ## Licencja
 
-"ArtQR" jest udostępniony na licencji MIT. Więcej informacji można znaleźć w pliku LICENCJA.
+"ArtQR" jest udostępniony na licencji MIT.
 
 ## Kontakt
 
