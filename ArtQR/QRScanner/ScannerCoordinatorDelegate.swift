@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+protocol ScannerCoordinatorDelegate: AnyObject {
+    func didFindCode(_ code: String)
+    func didFailWithError(_ error: Error)
+}
+
